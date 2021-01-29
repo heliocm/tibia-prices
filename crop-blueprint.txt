@@ -1,0 +1,22 @@
+SELL
+495,180
+1030,180
+1030,300
+495,300
+
+
+
+535,120
+
+convert coin-price.png -crop 535x120+495+180 cropped.png
+
+BUY
+
+495,365
+1030,365
+1030,475
+495,475
+
+535,110
+
+convert coin-price.png -crop 535x110+495+365 cropped2.png
